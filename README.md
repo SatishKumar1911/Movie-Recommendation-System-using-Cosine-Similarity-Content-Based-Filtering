@@ -30,10 +30,11 @@ Based on the cosine similarity scores, the system selects the top 10 movies with
 
 # Output:
 <br>
-## Home Page
+## Home Page.
+<br>
 ![image](https://github.com/SatishKumar1911/Movie-Recommendation-System-using-Cosine-Similarity-Content-Based-Filtering/assets/124880943/bdc2d36f-1f2f-4537-941c-491bf237546a)
 <br>
-## Hollywood movie search
+## Hollywood movie search.
 
 <br>
-## Bollywood movie search
+## Bollywood movie search.
