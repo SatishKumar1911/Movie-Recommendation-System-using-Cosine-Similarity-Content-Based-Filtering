@@ -62,7 +62,8 @@ Open another terminal (run 'npm start') inside FRONTEND/MRS folder.
 <br>
 
 ## Hollywood movie search.
-
+Currently working...
 <br>
 
 ## Bollywood movie search.
+Currently working...
