@@ -35,5 +35,5 @@ Based on the cosine similarity scores, the system selects the top 10 movies with
 <br>
 ## Hollywood movie search
 
-
+<br>
 ## Bollywood movie search
